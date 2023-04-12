@@ -1,8 +1,13 @@
 {
-  "name": "e2e-playwright-in-docker",
+  "name": "testing",
   "version": "1.0.0",
-  "dependencies": {
-    "playwright": "^1.29.2",
-    "@playwright/test": "^1.29.2"
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.17.1"
   }
 }
